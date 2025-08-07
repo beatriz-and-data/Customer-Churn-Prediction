@@ -1,5 +1,5 @@
 # Telco Customer Churn Prediction
-<img src="[https://exemplo.com/logo.png](https://github.com/beatriz-and-data/Customer-Churn-Prediction/blob/master/images/heading.png?raw=true)" width="100" height="100">
+<img src="[https://exemplo.com/logo.png](https://github.com/beatriz-and-data/Customer-Churn-Prediction/blob/master/images/heading.png?raw=true)" width="1000" height="1000">
 
 # Introdução
 
