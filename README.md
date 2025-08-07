@@ -1,5 +1,5 @@
 # Telco Customer Churn Prediction
-![Descrição da Imagem](heading.png)
+![](images/heading.png)
 
 # Introdução
 
