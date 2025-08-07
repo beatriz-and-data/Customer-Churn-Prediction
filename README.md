@@ -1,4 +1,5 @@
 # Telco Customer Churn Prediction
+![Imagem do cabeçalho)(https://github.com/beatriz-and-data/Customer-Churn-Prediction/blob/master/images/heading.png?raw=true)
 
 # Introdução
 
